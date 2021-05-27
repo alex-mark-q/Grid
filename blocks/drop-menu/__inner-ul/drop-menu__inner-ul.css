@@ -1,0 +1,29 @@
+.drop-menu__inner-ul{
+	display: none;
+    position: absolute;
+    top: 2em;
+    left: 0;
+    float: left;
+    right: auto;
+    width: 10em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.drop-menu__inner-ul li{
+	left: auto;
+    margin: 0;
+    clear: left;
+    float: left;
+    width: 100%;
+}
+.drop-menu__inner-ul a{
+	font-size: .8em;
+    font-weight: normal;
+    background: #eee;
+    color: #444;
+    line-height: 1.4em;
+    border-bottom: 1px solid #ddd;
+    float: left;
+    width: 100%;
+}

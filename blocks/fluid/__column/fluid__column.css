@@ -1,0 +1,10 @@
+.fluid__column {
+	display: flex;
+  	flex-wrap: wrap;
+  	align-content: space-between;
+	min-height: inherit;
+}
+
+.fluid__column .wrap {
+
+}

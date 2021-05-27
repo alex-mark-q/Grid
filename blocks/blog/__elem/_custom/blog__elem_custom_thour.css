@@ -1,0 +1,8 @@
+.blog__elem_custom_thour{
+	width: 40%;
+    min-height: 350px;
+    _height: 250px;
+    vertical-align: top;
+	border: 2px solid #e5f1fd;
+	margin: 5px;
+}

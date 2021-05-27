@@ -1,0 +1,6 @@
+.option_custom_bottom{
+	position: absolute;
+    bottom: 0;
+	line-height: 23px;
+	width: 100%;
+}

@@ -1,0 +1,9 @@
+.grid__elem{
+	position: relative;
+	min-height: 400px;
+    background: #e5f1fd;
+	_height: 350px;
+	vertical-align: top;
+    margin: 5px;
+	border: 2px solid #e5f1fd;
+}

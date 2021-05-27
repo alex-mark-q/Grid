@@ -1,0 +1,7 @@
+block('option').elem('image-wrapper')(
+	tag()('span')
+)
+
+block('option').elem('image-text')(
+	tag()('span')
+)

@@ -1,0 +1,10 @@
+.menu__item:first-child{
+	margin-right: 30px
+}
+.menu__item{
+    display: inline-block;
+    padding: 0;
+}
+.menu__item div{
+	display: inline-block;
+}

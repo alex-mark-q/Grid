@@ -1,0 +1,6 @@
+.fluid__centered {
+    text-align: center;
+}
+.fluid__centered .fluid__md-big:not(:last-child) {
+	margin-right: 2%
+}

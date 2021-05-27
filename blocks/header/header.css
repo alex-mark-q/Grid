@@ -1,0 +1,24 @@
+.header{
+	width: 100%;
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding: 30px 0 30px 0;
+    color: #2880ca;
+    font-family: Open Sans;
+}
+
+.header__title{
+	display: block;
+	width: 100%;
+	padding: 30px 0 30px 0;
+    color: #2880ca;
+    font-size: 42px;
+    font-family: Open Sans;
+}
+.header__content {
+	width: 80%;
+    margin: 30px auto;
+    font-family: Calibri;
+    color: #2880ca;
+}

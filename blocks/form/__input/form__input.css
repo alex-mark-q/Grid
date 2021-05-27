@@ -1,0 +1,8 @@
+.form__input:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.form__input{
+	width: 200px;
+}

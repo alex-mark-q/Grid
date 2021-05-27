@@ -1,0 +1,9 @@
+.flex__centered {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	height: 110vh;
+	flex-direction: column;
+    align-items: flex-start;
+    width: 55vw;
+}

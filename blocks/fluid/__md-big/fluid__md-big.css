@@ -1,0 +1,8 @@
+.fluid__md-big:first-child {
+	margin-right: 2%;
+}
+.fluid__md-big {
+    float: left;
+    text-align: center;
+    width: 49%;
+}

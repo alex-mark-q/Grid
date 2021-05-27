@@ -1,0 +1,8 @@
+.content__big{
+	display: block;
+    width: 100%;
+    font-size: 38px;
+    padding: 0;
+    color: #2880ca;
+    font-family: Open Sans;
+}

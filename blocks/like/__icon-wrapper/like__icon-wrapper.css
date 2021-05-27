@@ -1,0 +1,10 @@
+.like__icon-wrapper {
+	position: relative;
+}
+.like__icon-wrapper .icon{
+    width: 16px;
+    height: 16px;
+    vertical-align: top;
+    position: absolute;
+    top: 2px;
+}

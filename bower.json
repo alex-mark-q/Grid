@@ -1,0 +1,15 @@
+{
+  "name": "gulp-bem-stub",
+  "version": "0.0.0",
+  "description": "gulp BEM stub",
+  "bugs": "https://github.com/matmuchrapna/gulp-bem-stub/issues",
+  "ignore": [
+    ".bem/cache",
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "base": "matmuchrapna/bem-base",
+    "bootstrap": "bem-bootstrap#v0.1.2"
+  }
+}

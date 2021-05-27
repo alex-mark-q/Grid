@@ -1,0 +1,8 @@
+.v-menu__inner-ul{
+	display: none;
+    position: absolute;
+    width: 150px;
+    top: 0px;
+    left: 81%;
+    list-style: none;
+}

@@ -1,0 +1,14 @@
+.fluid{
+	width: 1170px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.fluid:before,
+.fluid:after{
+	content: " ";
+	display: table;
+}
+
+.fluid:after{
+	clear: both;
+}

@@ -1,0 +1,6 @@
+block('blog').elem('first')(
+	tag()('span')	
+)
+block('blog').elem('second')(
+	tag()('span')	
+)

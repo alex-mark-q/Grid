@@ -1,0 +1,23 @@
+.v-menu__item{
+	min-height: 1px;
+    line-height: 1em;
+    vertical-align: middle;
+    position: relative;
+}
+.v-menu__item:not(:last-child){}
+.v-menu__item a{
+	background-color: #ddd;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAyCAYAAACd+7GKAAAAGXRFW…iDyvqNykIjfqGyiCB+4uL+JMUUNMvRCDSHo3nrL0CAAQBzOzIE69Ar8wAAAABJRU5ErkJggg==);
+    background-repeat: repeat-x;
+    color: #444;
+    display: block;
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 180%;
+    padding: 13px 20px;
+    text-decoration: none;
+}
+.v-menu__item:hover ul{
+	display: block;
+}

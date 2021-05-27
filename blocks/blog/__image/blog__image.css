@@ -1,0 +1,10 @@
+.blog__image{
+	background: url(../img/play-button.png);
+	background-repeat: repeat-x, no-repeat;
+	background-size: 300px 100px; 
+	width: 100px;
+    height: 100px;
+    background-size: contain;
+	display: inline-block;
+    margin: 50px 0 50px 0;
+}

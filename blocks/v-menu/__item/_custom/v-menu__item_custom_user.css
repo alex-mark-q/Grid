@@ -1,0 +1,11 @@
+.v-menu__item_custom_user {
+
+    margin-bottom: 8px;
+}
+
+.v-menu__item_custom_user span:first-child {
+	float: left;
+    margin-right: 15px;
+        font-weight: 700;
+    font-size: 18px;
+}

@@ -1,0 +1,7 @@
+.fluid__big{
+	width: 100%;
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}

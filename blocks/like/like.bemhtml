@@ -1,0 +1,9 @@
+block('like')(
+	tag()('span')
+)
+block('like').elem('icon-wrapper')(
+	tag()('span')
+)
+block('like').elem('text')(
+	tag()('span')
+)

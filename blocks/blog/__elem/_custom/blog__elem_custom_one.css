@@ -1,0 +1,9 @@
+.blog__elem_custom_one{
+	width: 25%;
+    min-height: 350px;
+    background: #e5f1fd;
+	_height: 250px;
+	vertical-align: top;
+    margin: 5px;
+	border: 2px solid #e5f1fd;
+}

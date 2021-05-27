@@ -1,0 +1,12 @@
+.menu__image_img_comment:before{
+	content: "";
+    width: 25px;
+    height: 25px;
+    background: url(img/comment.png);
+    top: 11px;
+    right: -5px;
+    position: relative;
+    display: inline-block;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,8 @@
+.option__user {
+    padding: 25px 0 0;
+	text-align: left;
+}
+.option__user p {
+	text-align: center;
+	font-size: 15px
+}

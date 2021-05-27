@@ -1,0 +1,9 @@
+.fluid__wrap{
+	margin: 5px;
+    position: relative;
+    min-height: 400px;
+	_height: 400px;
+    background: #e5f1fd;
+    vertical-align: top;
+	border: 2px solid #e5f1fd;
+}

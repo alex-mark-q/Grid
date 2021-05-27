@@ -1,0 +1,6 @@
+.fluid__middle{
+	display: inline-block;
+    float: none;
+    text-align: center;
+    width: 45%;
+}

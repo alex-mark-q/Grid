@@ -1,0 +1,13 @@
+.fluid__row{
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.fluid__row:before,
+.fluid__row:after {
+  content: " ";
+  display: table;
+}
+
+.fluid__row:after {
+  clear: both;
+}

@@ -1,0 +1,12 @@
+.link_icon_star:after{
+	content: "";
+    width: 25px;
+    height: 25px;
+    background: url(img/star.png);
+    top: 7px;
+    right: -5px;
+    position: relative;
+    display: inline-block;
+    background-size: 24px 24px;
+    background-repeat: no-repeat;
+}

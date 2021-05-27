@@ -1,0 +1,7 @@
+.blog__wrap{
+	margin: 5px;
+    position: relative;
+    min-height: 400px;
+    _height: 400px;
+    vertical-align: top;
+}

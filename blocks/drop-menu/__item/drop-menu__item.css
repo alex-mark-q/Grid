@@ -1,0 +1,23 @@
+.drop-menu__item{
+	margin: 0 0 0 1px;
+    padding: 0;
+    float: left;
+    position: relative;
+    left: 50%;
+    top: 1px;
+}
+.drop-menu__item a{
+    display: block;
+    margin: 0;
+    padding: .6em .5em .4em;
+    font-size: 1em;
+    line-height: 1em;
+    background: #ddd;
+    text-decoration: none;
+    color: #444;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+}
+.drop-menu__item:hover ul, .drop-menu__item.hover ul{
+	display: block;
+}

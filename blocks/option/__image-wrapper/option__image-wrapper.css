@@ -1,0 +1,12 @@
+.option__image-wrapper{
+	display: inline-block;
+
+	width: 85px;
+    height: 85px;
+    background: #e5f1fd;
+    border-radius: 50%;
+    vertical-align: middle;
+    outline: 0;
+    background-size: 100%;
+    position: relative;
+}
